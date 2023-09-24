@@ -1,0 +1,80 @@
+.header-holiday{
+    font-family: serif;
+}
+
+.header-sub{
+    font-size: xx-small;
+    letter-spacing: 4.8px;
+}
+
+.btn-primary:hover {
+    text-decoration: underline;
+}
+
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: bold;
+    color: green;
+    text-decoration: none;
+    background: 0 0;
+    border: 0;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.font{
+    font-family: serif;
+    color: white;
+    margin-bottom: 0%;
+    letter-spacing: 4px;
+}
+
+.font-stay{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: medium;
+    margin-top: -10px;
+    letter-spacing: 4px;
+}
+
+.custom-bg {
+    background-image: url(./images/ruben-ramirez-xhKG01FN2uk-unsplash.jpg); 
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 300px; 
+}
+
+.overlay-button{
+    color: white;
+}
+
+.feature-font{
+    font-family :'Franklin Gothic light', 'Arial Narrow', Arial, sans-serif;
+    color:green;
+}
+
+.p-color-feature{
+    font-family: sans-serif;
+    color:grey ;
+}
+
+.rounded-circle {
+
+    border-radius: 50%!important;
+}
+
+.italic{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic; 
+}
+
+.footer-icon{
+    border-radius: 50%;
+}
+
+.py-5 {
+    padding-top: 1rem!important;
+    padding-bottom: 0rem!important;
+}
